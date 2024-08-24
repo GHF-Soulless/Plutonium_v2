@@ -139,46 +139,7 @@ exit melt
 set meltc=%meltc%1
 if %meltc%==1111111111 goto meltact
 :meltend
-
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
+cls
 :szm
 color 1A
 timeout /t 1 /nobreak >nul
